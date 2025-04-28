@@ -1,3 +1,9 @@
 [submodule "c_piscine"]
 	path = c_piscine
 	url = git@github.com:JenyaJj/c_piscine.git
+[submodule "ft_printf"]
+	path = ft_printf
+	url = git@github.com:JenyaJj/ft_printf.git
+[submodule "libft"]
+	path = libft
+	url = git@github.com:JenyaJj/libft.git
